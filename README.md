@@ -1,4 +1,4 @@
-## Hi👋, I am Sandip kushwaha.
+## Hi👋, I am Sandip Kushwaha.
 
 
     
