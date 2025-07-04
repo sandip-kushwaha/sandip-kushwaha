@@ -1,6 +1,6 @@
 ##  Hi👋, I am Sandip Kushwaha.
 
-- 💬 Ask me about : C proramming, C++ ...
+- 💬 Ask me about : Python, C proramming, C++ ...
 - 📫 How to reach me: sandipkushwaha023@gmail.com 
     
 
