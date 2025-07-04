@@ -1,6 +1,6 @@
 ##  Hi👋, I am Sandip Kushwaha.
 
-- 💬 Ask me about : Python
+- 💬 Ask me about : Python ...
 - 📫 How to reach me: sandipkushwaha023@gmail.com 
     
 
