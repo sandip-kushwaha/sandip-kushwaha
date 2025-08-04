@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋 I am Sandip kushwaha</h1>
-<div align="center">
-  <img height="550" src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif"  />
+<div width:"100%">
+<div align="right">
+  <img height="300" src="https://i.pinimg.com/originals/6d/80/2f/6d802ffd14b32795b4deb0b886a7815a.gif"  />
 </div>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sandip-kushwaha.sandip-kushwaha&"  />
+</div>
 </div>
 <h2 align="left">How to reach me:-</h2>
 <div align="left">
