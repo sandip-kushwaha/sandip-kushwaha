@@ -7,7 +7,7 @@
 </div>
 <h2 align="left">How to reach me:-</h2>
 <div align="left">
-  <a href="www.linkedin.com/in/sandip-kushwaha-20b8702ba" target="_blank">
+  <a href="https://www.linkedin.com/in/sandip-kushwaha-20b8702ba/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByFm1j46dSTycz3PYp5anCQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://www.facebook.com/sandip.kushwaha.501047" target="_blank">
