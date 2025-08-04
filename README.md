@@ -1,9 +1,5 @@
 <h1 align="left">Hi 👋 I am Sandip kushwaha</h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandip-kushwaha.sandip-kushwaha&"  />
-</div>
-
 <h2 align="left">How to reach me:-</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/sandip-kushwaha-20b8702ba" target="_blank">
@@ -48,4 +44,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
 </div>
-<p align="left"></p>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandip-kushwaha.sandip-kushwaha&"  />
+</div>
