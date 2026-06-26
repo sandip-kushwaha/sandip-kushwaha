@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I am Sandip kushwaha</h1>
+<h1 align="left"> Hi 👋 I am Sandip prasad kushwaha </h1>
 
 <h2 align="left">How to reach me:-</h2>
 <div align="left">
