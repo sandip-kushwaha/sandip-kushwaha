@@ -22,9 +22,6 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js logo" />
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   </a>
@@ -45,6 +42,12 @@
   </a>
     <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="github logo" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js logo" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js logo" />
   </a>
 </div>
 <p align="left"></p>
