@@ -49,6 +49,9 @@
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="Express.js logo" />
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
+  </a>
 </div>
 <p align="left"></p>
                   
