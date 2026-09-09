@@ -16,7 +16,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   </a>
 
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
   </a>
 
